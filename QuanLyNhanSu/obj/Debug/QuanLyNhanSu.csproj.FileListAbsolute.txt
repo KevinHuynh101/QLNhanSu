@@ -1,0 +1,46 @@
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\kevin101\Downloads\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\kevin101\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\kevin101\Desktop\QuanLyNhanSu 1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
